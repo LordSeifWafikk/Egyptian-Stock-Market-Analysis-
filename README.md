@@ -11,3 +11,9 @@ This project aims to analyse The Egyptian Market Stock and how the financial hea
  
 
 -Alternative hypothesis (Ha): The debt-to-equity ratio significantly impacts the RSI within at least one sector. 
+
+#Data
+
+-The "SRC" directory contains the csv file and the python noebook file
+
+_The "DOC" directory contains the rest of required resourses as in the contribution sheet and report etc.
